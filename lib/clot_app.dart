@@ -18,7 +18,7 @@ class ClotApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primaryColor: const Color(0xFF8E6CEF),
-          scaffoldBackgroundColor: const Color(0xFFF4F4F4),
+          scaffoldBackgroundColor: Colors.white,
         ),
 
         initialRoute: Routes.loginScreen,
