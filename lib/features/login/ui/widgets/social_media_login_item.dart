@@ -1,9 +1,7 @@
 import 'package:clot/core/themes/app_colors.dart';
 import 'package:clot/core/themes/app_text_styles.dart';
-import 'package:clot/core/utils/assets_images.dart';
 import 'package:clot/core/utils/spacing.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 class SocialMediaLoginItem extends StatelessWidget {
   const SocialMediaLoginItem({
