@@ -3,7 +3,6 @@ import 'package:clot/core/utils/spacing.dart';
 import 'package:clot/core/widgets/app_button.dart';
 import 'package:clot/core/widgets/app_text_field.dart';
 import 'package:clot/features/login/ui/widgets/dont_have_an_account.dart';
-import 'package:clot/features/login/ui/widgets/social_media_login_item.dart';
 import 'package:clot/features/login/ui/widgets/social_media_login_list.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
